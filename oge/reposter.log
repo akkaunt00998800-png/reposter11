@@ -1,0 +1,73 @@
+2025-12-10 23:54:48,208 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-12-10 23:54:50,334 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-12-10 23:55:13,605 - __main__ - INFO - 🚀 Бот запущен!
+2025-12-10 23:55:13,753 - __main__ - INFO - 📡 Мониторинг канала: вфцв
+2025-12-10 23:55:13,753 - __main__ - INFO - 📤 Публикация в канал: ОТВЕТЫ ОГЭ 2026| ОГЭ ИНСАЙДЕР
+2025-12-10 23:55:13,835 - __main__ - INFO - 🆕 Найден новый пост ID: 2
+2025-12-10 23:55:13,985 - __main__ - INFO - ✅ Репост текста: 2
+2025-12-10 23:55:13,985 - __main__ - INFO - 📝 Обработан пост ID: 2 в 23:55:13
+2025-12-10 23:55:13,996 - __main__ - INFO - 👂 Ожидание новых постов...
+2025-12-10 23:56:15,654 - __main__ - INFO - 🔔 Получено новое сообщение ID: 3
+2025-12-10 23:56:15,781 - __main__ - INFO - ✅ Репост с медиа: 3
+2025-12-10 23:56:15,782 - __main__ - INFO - 📝 Обработан пост ID: 3 в 23:56:15
+2025-12-11 00:10:13,847 - telethon.client.updates - INFO - Got difference for account updates
+2025-12-11 00:10:14,026 - telethon.client.updates - INFO - Got difference for channel 1442587823 updates
+2025-12-11 00:10:14,138 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:10:14,218 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:10:33,506 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:10:33,580 - telethon.client.updates - INFO - Got difference for channel 2500003415 updates
+2025-12-11 00:10:41,747 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:10:52,125 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:11:05,201 - telethon.client.updates - INFO - Got difference for channel 2668292790 updates
+2025-12-11 00:11:15,362 - telethon.client.updates - INFO - Got difference for channel 1442587823 updates
+2025-12-11 00:11:16,301 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:11:25,448 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:11:35,606 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:11:35,687 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:11:52,100 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:12:05,949 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:12:26,197 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:12:46,450 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:12:53,652 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:13:16,765 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:13:36,951 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:13:47,079 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:14:02,761 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:14:24,566 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:14:27,611 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:14:47,817 - telethon.client.updates - INFO - Got difference for channel 2044492323 updates
+2025-12-11 00:14:52,301 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:15:08,090 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:15:28,340 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:15:38,466 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:15:55,897 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:16:07,162 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:16:29,673 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:16:29,745 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:16:30,355 - telethon.client.updates - INFO - Got difference for channel 1442587823 updates
+2025-12-11 00:17:00,080 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:17:10,172 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:17:30,416 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:17:40,547 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:17:52,307 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:18:00,761 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:18:10,901 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:18:21,042 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:18:51,424 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:19:11,744 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:19:21,893 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:19:32,300 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:19:42,394 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:20:02,585 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:20:02,676 - telethon.client.updates - INFO - Got difference for channel 1442587823 updates
+2025-12-11 00:20:32,387 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:20:43,008 - telethon.client.updates - INFO - Got difference for channel 1442587823 updates
+2025-12-11 00:20:52,431 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:20:58,472 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:21:03,152 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:21:03,754 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:21:04,336 - telethon.client.updates - INFO - Got difference for channel 2668292790 updates
+2025-12-11 00:21:06,394 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:21:11,213 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
+2025-12-11 00:21:33,605 - telethon.client.updates - INFO - Got difference for channel 2651198740 updates
+2025-12-11 00:21:33,793 - telethon.client.updates - INFO - Got difference for channel 2082156527 updates
